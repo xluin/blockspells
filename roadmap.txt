@@ -1,0 +1,17 @@
+[1] = highest priority
+[2] = important
+[3] = nice to add but not necessary
+
+(1 - 10) = estimated coding difficulty
+
+ROADMAP:
+
+[1] moving background (2)
+[1] smooth collision (5)
+[2] map editor (5)
+[2] main menu (3)
+[2] smooth graphics (0)
+[2] spritesheets (5)
+[1] player health / mana (1)
+[1] items (5-7)
+[1] enemies (5-8)
