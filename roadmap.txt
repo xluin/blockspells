@@ -7,7 +7,6 @@
 ROADMAP:
 
 [1] moving background (2)
-[1] smooth collision (5)
 [2] map editor (5)
 [2] main menu (3)
 [2] smooth graphics (0)
