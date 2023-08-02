@@ -7,7 +7,7 @@ let player = {
     blockY: null,
     direction: [],
     collision: {},
-    skin: "stevie",
+    skin: "tim",
     speed: u(2, true, w),
     jumpMultiply: u(3, true, w),
     jumpSet: u(2, true, w) * 0.03,
